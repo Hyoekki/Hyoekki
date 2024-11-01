@@ -31,6 +31,8 @@ At [Hive Helsinki](https://www.hive.fi/en/), I'm currently developing skills in:
 - **Code Optimization**: Writing efficient and clean code to optimize performance.
 - **Debugging**: Using tools like `gdb` to step through code and identify issues, improving my understanding of program execution.
 
+---
+
 ### 🔭 Current Project: **libft**
 
 I'm currently working on **libft**, a custom implementation of key C library functions. Through this project, I'm developing and strengthening the following skills:
@@ -42,8 +44,10 @@ I'm currently working on **libft**, a custom implementation of key C library fun
 - **Understanding C Standard Library**: Gaining a strong understanding of how and why common C library functions work, preparing me to implement custom solutions in future projects.
 - **Error Handling**: Learning to handle edge cases and errors gracefully to ensure robust function performance.
 
+---
+
 ### 🌱 My Coding Journey
-I’m passionate about learning, problem-solving, and contributing to open-source projects. I'm especially interested in low-level programming and computer science fundamentals. Here's a snapshot of my coding journey so far:
+I’m passionate about learning and problem-solving. I'm especially interested in low-level programming and computer science fundamentals. Here's a snapshot of my coding journey so far:
 - Started my programming adventure at Hive Helsinki, part of the 42 Network, where I’m immersed in a peer-to-peer, project-based learning environment.
 - Tackling foundational projects like **libft**, which has strengthened my understanding of C programming and memory management.
 - Constantly learning new concepts and improving through hands-on projects and collaboration with fellow students.
@@ -54,10 +58,10 @@ I’m passionate about learning, problem-solving, and contributing to open-sourc
 - **Piscine Graduate**: Successfully completed the **Piscine**, a month-long coding bootcamp at Hive Helsinki, where I developed a strong foundation in C programming and problem-solving.
 
 ---
-##📈 GitHub Stats
+### 📈 GitHub Stats
 	
- • ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
- • ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+ ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
  
 
 ### 📊 Weekly Development Breakdown
