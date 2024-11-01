@@ -61,7 +61,6 @@ I’m passionate about learning and problem-solving. I'm especially interested i
 ### 📈 GitHub Stats
 	
  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hyoekki&show_icons=true&theme=radical)
- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyoekki&layout=compact&theme=radical)
  
 
 ### 📊 Weekly Development Breakdown
